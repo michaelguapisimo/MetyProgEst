@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A89BF-8C35-4578-9BF8-DA5A1DC644B3}|SumaDeDosNumeros\\SumaDeDosNumeros.csproj|c:\\users\\home\\onedrive\\escritorio\\tarea mype\\sumadedosnumeros\\sumadedosnumeros\\sumadedosnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A89BF-8C35-4578-9BF8-DA5A1DC644B3}|SumaDeDosNumeros\\SumaDeDosNumeros.csproj|solutionrelative:sumadedosnumeros\\sumadedosnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A89BF-8C35-4578-9BF8-DA5A1DC644B3}|SumaDeDosNumeros\\SumaDeDosNumeros.csproj|c:\\users\\home\\onedrive\\escritorio\\tarea mype\\sumadedosnumeros\\sumadedosnumeros\\sumadedosnumeros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B2A89BF-8C35-4578-9BF8-DA5A1DC644B3}|SumaDeDosNumeros\\SumaDeDosNumeros.csproj|solutionrelative:sumadedosnumeros\\sumadedosnumeros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumaDeDosNumeros.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.cs",
+              "RelativeDocumentMoniker": "SumaDeDosNumeros\\SumaDeDosNumeros.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.cs*",
+              "RelativeToolTip": "SumaDeDosNumeros\\SumaDeDosNumeros.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:14:42.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumaDeDosNumeros",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
+              "RelativeDocumentMoniker": "SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
+              "RelativeToolTip": "SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T18:13:13.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
