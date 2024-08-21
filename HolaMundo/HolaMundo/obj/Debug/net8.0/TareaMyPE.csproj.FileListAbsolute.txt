@@ -1,0 +1,14 @@
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\bin\Debug\net8.0\TareaMyPE.exe
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\bin\Debug\net8.0\TareaMyPE.deps.json
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\bin\Debug\net8.0\TareaMyPE.runtimeconfig.json
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\bin\Debug\net8.0\TareaMyPE.dll
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\bin\Debug\net8.0\TareaMyPE.pdb
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\TareaMyPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\TareaMyPE.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\TareaMyPE.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\TareaMyPE.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\TareaMyPE.dll
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\refint\TareaMyPE.dll
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\TareaMyPE.pdb
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\TareaMyPE.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\HolaMundo\HolaMundo\obj\Debug\net8.0\ref\TareaMyPE.dll
