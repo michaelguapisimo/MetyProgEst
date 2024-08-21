@@ -1,0 +1,29 @@
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.exe
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.deps.json
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.runtimeconfig.json
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.dll
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.pdb
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.AssemblyInfo.cs
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.dll
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\refint\AreaDeUnCirculo.dll
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.pdb
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.genruntimeconfig.cache
+C:\Users\Home\source\repos\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\ref\AreaDeUnCirculo.dll
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.exe
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.deps.json
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.runtimeconfig.json
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.dll
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\bin\Debug\net8.0\AreaDeUnCirculo.pdb
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.sourcelink.json
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.dll
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\refint\AreaDeUnCirculo.dll
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.pdb
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\AreaDeUnCirculo.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Escritorio\Tarea MyPE\AreaDeUnCirculo\AreaDeUnCirculo\obj\Debug\net8.0\ref\AreaDeUnCirculo.dll
