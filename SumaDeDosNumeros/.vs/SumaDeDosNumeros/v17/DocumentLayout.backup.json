@@ -26,9 +26,9 @@
               "Title": "SumaDeDosNumeros.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.cs",
               "RelativeDocumentMoniker": "SumaDeDosNumeros\\SumaDeDosNumeros.cs",
-              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.cs*",
-              "RelativeToolTip": "SumaDeDosNumeros\\SumaDeDosNumeros.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.cs",
+              "RelativeToolTip": "SumaDeDosNumeros\\SumaDeDosNumeros.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T18:14:42.664Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SumaDeDosNumeros",
+              "Title": "SumaDeDosNumeros.csproj",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
               "RelativeDocumentMoniker": "SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Tarea MyPE\\SumaDeDosNumeros\\SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
               "RelativeToolTip": "SumaDeDosNumeros\\SumaDeDosNumeros.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-21T18:13:13.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T18:13:13.887Z"
             }
           ]
         }
