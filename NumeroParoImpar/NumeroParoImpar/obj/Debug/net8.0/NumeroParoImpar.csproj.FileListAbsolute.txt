@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\bin\Debug\net8.0\NumeroParoImpar.exe
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\bin\Debug\net8.0\NumeroParoImpar.deps.json
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\bin\Debug\net8.0\NumeroParoImpar.runtimeconfig.json
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\bin\Debug\net8.0\NumeroParoImpar.dll
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\bin\Debug\net8.0\NumeroParoImpar.pdb
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\NumeroParoImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\NumeroParoImpar.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\NumeroParoImpar.AssemblyInfo.cs
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\NumeroParoImpar.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\NumeroParoImpar.dll
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\refint\NumeroParoImpar.dll
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\NumeroParoImpar.pdb
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\NumeroParoImpar.genruntimeconfig.cache
+C:\Users\Home\source\repos\NumeroParoImpar\NumeroParoImpar\obj\Debug\net8.0\ref\NumeroParoImpar.dll
