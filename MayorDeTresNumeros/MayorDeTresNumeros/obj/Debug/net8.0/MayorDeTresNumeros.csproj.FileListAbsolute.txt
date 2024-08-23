@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.exe
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.deps.json
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.runtimeconfig.json
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.dll
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.pdb
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.AssemblyInfo.cs
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.dll
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\refint\MayorDeTresNumeros.dll
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.pdb
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.genruntimeconfig.cache
+C:\Users\Home\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\ref\MayorDeTresNumeros.dll
